@@ -8,4 +8,4 @@ CSS: Styles the pages, ensuring responsive layouts.
 JavaScript: Adds interactive elements.
 
 # Live Demo
-Try out the live version of the portfolio here: [CODESOFT - Landing Page Portfolio ](https://faizan1568.github.io/portfolio/)
+Try out the live version of the Landing Page portfolio here: [CODESOFT - Landing Page Portfolio ](https://faizan1568.github.io/portfolio/)
